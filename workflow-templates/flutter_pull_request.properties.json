@@ -1,0 +1,10 @@
+{
+    "name": "coodoo Flutter Pull-Request",
+    "description": "coodoo Flutter Pull-Request Workflow",
+    "categories": [
+        "continuous-integration"
+    ],
+    "filePatterns": [
+        "pubspec.yaml$"
+    ]
+}
